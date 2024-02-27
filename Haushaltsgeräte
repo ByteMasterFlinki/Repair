@@ -49,17 +49,37 @@ Der Handmixer
 
 Der Stabmixer
 
-Der Stabmixer war ein noname Produkt allerdings hatte er der Kundin Jahrelang gute dienste geleistet in kürzlicher Vergangenheit versagte er allerdings öfters "vor allem wenn man weit von der Steckdose weg geht"
-Verdacht war also Kabelbruch.
+    Der Stabmixer war ein noname Produkt allerdings hatte er der Kundin Jahrelang gute dienste geleistet in kürzlicher Vergangenheit versagte er allerdings öfters "vor allem wenn man weit von der Steckdose weg geht"
+    Verdacht war also Kabelbruch.
+        
+    Arbeitsbeschrebung:
+    Da der Handmixer keinerlei schrauben aufwies versuchte ich zuerst die drei Druckschalter an der Oberseite zu entfernen. 
+    Dies ging mit einem kleinen Schlitzschraubezieher und der anwendung der Hebelgesätze ganz einfach.
+    Da ich anstatt der gehofften Schrauben allerding nur teigreste und Mottenlarven fand(Macht eure Mixer bitte richtig sauber) 
+    versuchte ich mit einem Spudger das Gehäuse entlang einer gut erkennbaren Naht zu öffnen.
+    Nach einigen wiederspänstigkeite ddes gerätes gab es nach und lies sich mehr oder weniger einfach aufklipsen.
+    Mit dem Multimeter konnte schnell der Anfangsverdacht bestätigt werden und das Kabel um wenige Zentimeter gekürzt werden. 
+    Um den Fehler zu finden entfernte ich das Kabel aus dem Gerät dann wurde die defekte Ader mittels Multimeter gefunden und dann an L einer Steckdose angeschlossen.
+        
+    Mit einem kontaktlosen Spannungspüfer findet man nun ganz schnell bis wohin Spannung kommt.
+    Da es sich um einen Wackelkontakt handlet muss man um den Fehler zu finden das Kabel an den Verdachtsstellen knicken.
+    Wenn der kontaktlose Spannungsprüfer plötzlich keine Spannung mehr am Ede der Leitung registriert hat man nun die Chance die Übergangsstelle bzw. den bruch zu finden.
+        
+    Der Kabelbruch war genau an der Stelle an der das Kabel das Gerät verlässt. Wahrscheinlich vom häufigen abknicken und aufwickeln des Kabels um das Gerät.
+    Das Kabel wurde erneut abisoliert, mit passenden Aderenthülsen verkrimpt und wieder im Klemmblock festgeschraubt. 
+    der anschliesende Funktionstest verlief positiv, Kundin zufrieden ich zufrieden.
 
-Arbeitsbeschrebung:
-Da der Handmixer keinerlei schrauben aufwies versuchte ich zuerst die drei Druckschalter an der Oberseite zu entfernen. 
-Dies ging mit einem kleinen Schlitzschraubezieher und der anwendung der Hebelgesätze ganz einfach.
-Da ich anstatt der gehofften Schrauben allerding nur teigreste und Mottenlarven fand(Macht eure Mixer bitte richtig sauber) 
-versuchte ich mit einem Spudger das Gehäuse entlang einer gut erkennbaren Naht zu öffnen.
-Nach einigen wiederspänstigkeite ddes gerätes gab es nach und lies sich mehr oder weniger einfach aufklipsen.
-Mit dem Multimeter konnte schnell der Anfangsverdacht bestätigt werden und das Kabel um wenige Zentimeter gekürzt werden. 
 
-es wurde erneut abisoliertIm Klemmblock 
+Der Schallattenspieler
+    Der Schallplattenspieler war schon eine gute zeit alt was man ihm auch ansah. 
+    Der Kunde habe nach längerem lagern auf dem Dachoden das Gerät mal wieder nutzen wollen allerdings ging es nicht.
+    Da ich bislang noch keinen Plattenspoieler repariert geschweige denn geöffnet hatte lies ich mich überraschen was wohl zu reparieren sei.
 
- -Küchenmixer -Schalplattenspieler -CD/DVD Ledegerät -Kaffeemaschiene -Massagegerät -Gastro Elektroherd 
+    Arbeitsbeschreibung:
+    Die Platte lies sich ganz einfach nach oben abnehmen. Darunter befand sich der Antreibsriemen der direkt vom Motor über eine große scheibe an der Achse des tellers lief.
+    Wir shalteten zum Test das Geät an und sahen das der Motor durchdrehte und den Riemen nicht mitnahm. 
+    Bei näherer betrachtung sah man das der Riemen ganz fest und nicht mehr elatisch war, auch wies er diverse kleine Risse auf.
+    Ich nahm maß am Riemen bestellte einen Ersatz und baute ihn ein. Das Gerät wurde noc etwas mit Nähmaschienenöl geölt und wieder zusammengesetzt.
+    gerät geht wieder, Kunde glücklich ich glücklich.
+
+-CD Wechsler -CD/DVD Ledegerät -Kaffeemaschiene -Massagegerät -Gastro Elektroherd 
