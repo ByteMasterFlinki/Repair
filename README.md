@@ -11,7 +11,7 @@ Auch war ich schon in unserem städtischen Repair Cafe tätig und durfte viele G
 
 Repariert wird:
 
--Haushaltsgeräte /nl
+-Haushaltsgeräte
   -Rasierer
   -Küchenrührer
   -Küchenmixer
