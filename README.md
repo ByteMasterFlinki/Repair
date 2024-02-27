@@ -19,6 +19,7 @@ Repariert wird:
   -CD/DVD Ledegerät
   -Kaffeemaschiene
   -Massagegerät 
+  -Gastro Elektroherd
   -und vieles mehr ...
   
 -Veranstaltungstechnik
